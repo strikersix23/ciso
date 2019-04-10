@@ -1,6 +1,6 @@
 ciso is a simple commandline utility to compress PSP iso files.
 
-This package is an OSX port of a package provided by Ubuntu: http://packages.ubuntu.com/search?keywords=ciso
+This package is an termux for android  port of a package provided by Ubuntu: http://packages.ubuntu.com/search?keywords=ciso
 
 # Installation
 
@@ -19,3 +19,6 @@ To compress an iso file:
 
 where level ranges from 1 (fast, poor compression) to 9 (slow, high
 compression).
+
+termux app
+https://play.google.com/store/apps/details?id=com.termux
