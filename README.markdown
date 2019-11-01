@@ -4,8 +4,10 @@ This package is an termux for android  port of a package provided by Ubuntu: htt
 
 # Installation
 
+    git clone https://github.com/strikersix23/ciso.git
     make
     make install # (optional)
+    to remove rm -rf ciso
 
 # Usage
 
@@ -23,6 +25,6 @@ compression).
 termux app
 https://play.google.com/store/apps/details?id=com.termux
 
-requires make, zlib,and clang
+requires make, zlib,and clang,git
 to access internal storage run the command 
 termux-setup-storage
