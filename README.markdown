@@ -24,6 +24,8 @@ compression).
 
 termux app
 https://play.google.com/store/apps/details?id=com.termux
+or 
+https://f-droid.org/en/packages/com.termux/
 
 requires make, zlib,and clang,git
 to access internal storage run the command 
