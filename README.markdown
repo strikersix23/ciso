@@ -22,3 +22,7 @@ compression).
 
 termux app
 https://play.google.com/store/apps/details?id=com.termux
+
+requires make, zlib,and clang
+to access internal storage run the command 
+termux-setup-storage
